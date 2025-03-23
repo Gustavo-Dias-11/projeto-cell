@@ -28,3 +28,24 @@ section#telefone {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 268px;
+    height:471px ;
+    border-radius: 5px;
+}
+section#redes-sociais img {
+    width: 70px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+
+}
+section#redes-sociais img:hover {
+    transform: translate(3px, -3px);
+}  
+div {
+    padding-top: 310px;
+}
